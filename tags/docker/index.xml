@@ -11,6 +11,15 @@
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://blog.will.my.id/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker Compose Install</title>
+      <link>https://blog.will.my.id/posts/docker-compose-copy-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.will.my.id/posts/docker-compose-copy-1/</guid>
+      <description>Dokumentasi saya saat install docker compose di linux.</description>
+    </item>
+    
+    <item>
+      <title>Docker Compose Install</title>
       <link>https://blog.will.my.id/posts/docker-compose/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

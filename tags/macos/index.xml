@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Macos on Wildy</title>
+    <link>https://blog.will.my.id/tags/macos/</link>
+    <description>Recent content in Macos on Wildy</description>
+    <image>
+      <url>https://blog.will.my.id/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.will.my.id/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 10 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.will.my.id/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ncspot, Spotify Ringan Berbasis Terminal User Interface</title>
+      <link>https://blog.will.my.id/posts/ncspot/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.will.my.id/posts/ncspot/</guid>
+      <description>Prakata  Mungkin teman-teman sudah tidak asing dengan spotify, platfrom streaming musik terbesar di dunia. Saya sendiri sudah menggunakan spotify sejak 2018. Alasan saya betah menggunakan spotify ya karena lagunya sangat lengkap dan lagunya ga besar2 amat, tetapi spotify bisa memakan 30% dari ram saya. Nah makanya saya pakai ncspot karena jauh lebih enteng, hanya memakan 20 an MB dari ram saya.
+Kelebihan dan Kekurangan  Kelebihan  - Jauh lebih ringan daripada spotify  Kekurangan  - Wajib premium - Ga bisa download lagu  Instalasi  Distribusi turunan Arch Linux yay -S ncspot Mac OS brew install ncspot Tahap Eksekusi  ncspot Ketik perintah diatas untuk memulai ncspot lalu masukkan akun anda!</description>
+    </item>
+    
+  </channel>
+</rss>

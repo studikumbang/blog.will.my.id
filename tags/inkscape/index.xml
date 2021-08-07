@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inkscape on Wildy</title>
+    <link>https://blog.will.my.id/tags/inkscape/</link>
+    <description>Recent content in Inkscape on Wildy</description>
+    <image>
+      <url>https://blog.will.my.id/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.will.my.id/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://blog.will.my.id/tags/inkscape/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buka file EPS dengan Inkscape</title>
+      <link>https://blog.will.my.id/posts/eps-inkscape/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://blog.will.my.id/posts/eps-inkscape/</guid>
+      <description>Dokumentasi saya saat benerin inkscape gabisa buka eps.</description>
+    </item>
+    
+    <item>
+      <title>Fixing python-lxml</title>
+      <link>https://blog.will.my.id/posts/lxml/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://blog.will.my.id/posts/lxml/</guid>
+      <description>Dokumentasi saya saat troubleshoot masalah python-lxml.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -9,7 +9,52 @@
       <link>https://blog.will.my.id/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 10 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.will.my.id/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.will.my.id/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Belajar Golang Eps 1.1 : Hello World</title>
+      <link>https://blog.will.my.id/posts/belajar-go-eps1_1/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.will.my.id/posts/belajar-go-eps1_1/</guid>
+      <description>Dokumentasi saya saat belajar bahasa GO.</description>
+    </item>
+    
+    <item>
+      <title>Belajar Golang Eps 1.0</title>
+      <link>https://blog.will.my.id/posts/belajar-go-pendahuluan/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.will.my.id/posts/belajar-go-pendahuluan/</guid>
+      <description>Dokumentasi saya saat belajar bahasa GO.</description>
+    </item>
+    
+    <item>
+      <title>Docker Compose Install</title>
+      <link>https://blog.will.my.id/posts/docker-compose/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.will.my.id/posts/docker-compose/</guid>
+      <description>Dokumentasi saya saat install docker compose di linux.</description>
+    </item>
+    
+    <item>
+      <title>Fixing python-lxml</title>
+      <link>https://blog.will.my.id/posts/lxml/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.will.my.id/posts/lxml/</guid>
+      <description>Dokumentasi saya saat troubleshoot masalah python-lxml.</description>
+    </item>
+    
+    <item>
+      <title>Buka file EPS dengan Inkscape</title>
+      <link>https://blog.will.my.id/posts/eps-inkscape/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.will.my.id/posts/eps-inkscape/</guid>
+      <description>Dokumentasi saya saat benerin inkscape gabisa buka eps.</description>
+    </item>
+    
     <item>
       <title>Ncspot, Spotify Ringan Berbasis Terminal User Interface</title>
       <link>https://blog.will.my.id/posts/ncspot/</link>
@@ -18,33 +63,6 @@
       <guid>https://blog.will.my.id/posts/ncspot/</guid>
       <description>Prakata  Mungkin teman-teman sudah tidak asing dengan spotify, platfrom streaming musik terbesar di dunia. Saya sendiri sudah menggunakan spotify sejak 2018. Alasan saya betah menggunakan spotify ya karena lagunya sangat lengkap dan lagunya ga besar2 amat, tetapi spotify bisa memakan 30% dari ram saya. Nah makanya saya pakai ncspot karena jauh lebih enteng, hanya memakan 20 an MB dari ram saya.
 Kelebihan dan Kekurangan  Kelebihan  - Jauh lebih ringan daripada spotify  Kekurangan  - Wajib premium - Ga bisa download lagu  Instalasi  Distribusi turunan Arch Linux yay -S ncspot Mac OS brew install ncspot Tahap Eksekusi  ncspot Ketik perintah diatas untuk memulai ncspot lalu masukkan akun anda!</description>
-    </item>
-    
-    <item>
-      <title>Buka file EPS dengan Inkscape</title>
-      <link>https://blog.will.my.id/posts/eps-inkscape/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://blog.will.my.id/posts/eps-inkscape/</guid>
-      <description>Dokumentasi saya saat benerin inkscape gabisa buka eps.</description>
-    </item>
-    
-    <item>
-      <title>Fixing python-lxml</title>
-      <link>https://blog.will.my.id/posts/lxml/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://blog.will.my.id/posts/lxml/</guid>
-      <description>Dokumentasi saya saat troubleshoot masalah python-lxml.</description>
-    </item>
-    
-    <item>
-      <title>Docker Compose Install</title>
-      <link>https://blog.will.my.id/posts/docker-compose/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.will.my.id/posts/docker-compose/</guid>
-      <description>Dokumentasi saya saat install docker compose di linux.</description>
     </item>
     
   </channel>

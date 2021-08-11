@@ -9,11 +9,38 @@
       <link>https://blog.will.my.id/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 10 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.will.my.id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.will.my.id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dokumentasi Belajar Go</title>
+      <link>https://blog.will.my.id/tags/dokumentasi-belajar-go/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.will.my.id/tags/dokumentasi-belajar-go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>https://blog.will.my.id/tags/go/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.will.my.id/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://blog.will.my.id/tags/golang/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.will.my.id/tags/golang/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Linux</title>
       <link>https://blog.will.my.id/tags/linux/</link>
-      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://blog.will.my.id/tags/linux/</guid>
       <description></description>
@@ -22,34 +49,16 @@
     <item>
       <title>Macos</title>
       <link>https://blog.will.my.id/tags/macos/</link>
-      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://blog.will.my.id/tags/macos/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>edit</title>
-      <link>https://blog.will.my.id/tags/edit/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://blog.will.my.id/tags/edit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inkscape</title>
-      <link>https://blog.will.my.id/tags/inkscape/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://blog.will.my.id/tags/inkscape/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Docker</title>
       <link>https://blog.will.my.id/tags/docker/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://blog.will.my.id/tags/docker/</guid>
       <description></description>
@@ -58,9 +67,27 @@
     <item>
       <title>docker-compose</title>
       <link>https://blog.will.my.id/tags/docker-compose/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://blog.will.my.id/tags/docker-compose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>edit</title>
+      <link>https://blog.will.my.id/tags/edit/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.will.my.id/tags/edit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inkscape</title>
+      <link>https://blog.will.my.id/tags/inkscape/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.will.my.id/tags/inkscape/</guid>
       <description></description>
     </item>
     

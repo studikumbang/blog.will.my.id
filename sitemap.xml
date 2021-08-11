@@ -2,43 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.will.my.id/posts/belajar-go-eps1_1/</loc>
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.will.my.id/tags/dokumentasi-belajar-go/</loc>
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.will.my.id/tags/go/</loc>
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.will.my.id/tags/golang/</loc>
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.will.my.id/tags/linux/</loc>
-    <lastmod>2021-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.will.my.id/tags/macos/</loc>
-    <lastmod>2021-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.will.my.id/posts/</loc>
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.will.my.id/tags/</loc>
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.will.my.id/</loc>
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.will.my.id/posts/belajar-go-pendahuluan/</loc>
+    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.will.my.id/tags/docker/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.will.my.id/posts/docker-compose/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.will.my.id/tags/docker-compose/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.will.my.id/tags/edit/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.will.my.id/posts/lxml/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.will.my.id/tags/inkscape/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.will.my.id/posts/eps-inkscape/</loc>
+    <lastmod>2021-05-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.will.my.id/posts/ncspot/</loc>
     <lastmod>2021-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.will.my.id/posts/</loc>
-    <lastmod>2021-04-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.will.my.id/tags/</loc>
-    <lastmod>2021-04-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.will.my.id/</loc>
-    <lastmod>2021-04-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.will.my.id/posts/eps-inkscape/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.will.my.id/tags/edit/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.will.my.id/posts/lxml/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.will.my.id/tags/inkscape/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
     <loc>https://blog.will.my.id/categories/</loc>
-  </url><url>
-    <loc>https://blog.will.my.id/tags/docker/</loc>
-  </url><url>
-    <loc>https://blog.will.my.id/posts/docker-compose/</loc>
-  </url><url>
-    <loc>https://blog.will.my.id/tags/docker-compose/</loc>
   </url><url>
     <loc>https://blog.will.my.id/search/</loc>
   </url><url>

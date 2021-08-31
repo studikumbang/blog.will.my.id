@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.will.my.id/tags/freebsd/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.will.my.id/posts/autologin-freebsd/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.will.my.id/posts/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.will.my.id/tags/problem-solving-freebsd/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.will.my.id/tags/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.will.my.id/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.will.my.id/posts/fix-multimedia-keys-freebsd/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.will.my.id/posts/belajar-go-eps1_1b/</loc>
     <lastmod>2021-08-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -12,15 +33,6 @@
     <lastmod>2021-08-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.will.my.id/tags/golang/</loc>
-    <lastmod>2021-08-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.will.my.id/posts/</loc>
-    <lastmod>2021-08-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.will.my.id/tags/</loc>
-    <lastmod>2021-08-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.will.my.id/</loc>
     <lastmod>2021-08-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.will.my.id/posts/belajar-go-eps1_1a/</loc>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FreeBSD on Wildy</title>
+    <link>https://blog.will.my.id/tags/freebsd/</link>
+    <description>Recent content in FreeBSD on Wildy</description>
+    <image>
+      <url>https://blog.will.my.id/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.will.my.id/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.will.my.id/tags/freebsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FreeBSD: Cara Otomatis Login dan Menjalankan Xorg Tanpa Display Manager</title>
+      <link>https://blog.will.my.id/posts/autologin-freebsd/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.will.my.id/posts/autologin-freebsd/</guid>
+      <description>Dokumentasi saya saat install FreeBSD.</description>
+    </item>
+    
+    <item>
+      <title>FreeBSD: Memperbaiki Brightness dan Volume Control Pada Keyboard Laptop</title>
+      <link>https://blog.will.my.id/posts/fix-multimedia-keys-freebsd/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.will.my.id/posts/fix-multimedia-keys-freebsd/</guid>
+      <description>Dokumentasi saya saat install FreeBSD.</description>
+    </item>
+    
+  </channel>
+</rss>
